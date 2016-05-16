@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: oilershockey.org
+email: dhughes28@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 This is a currently in progress website designed to showcase the 
 abilities of cats; their strength, glamour, talent and of course to
 control all humans in their quest for world domination
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.oilershockey.org" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: jekyllrbno
+github_username:  jekyllno
 
 # Build settings
 markdown: kramdown
