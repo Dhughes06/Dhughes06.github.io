@@ -4,16 +4,12 @@ title:  "First  blog attempt!"
 date:   2016-05-24 14:03:12 -0400
 categories: First blog Attempt!
 ---
-??
-<!DOCTYPE html>
 <html>
 <head>
 <title>Page Title</title>
 </head>
 <body>
-
 <h1>My First Attempt</h1>
 <p>My first attempt is not going well at this point..</p>
-
 </body>
 </html>
