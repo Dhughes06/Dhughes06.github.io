@@ -10,7 +10,7 @@ categories: First blog Attempt!
 </head>
 <body>
 <h1>My First Attempt</h1>
-<p>My first attempt is not going well at this point..We are beggining to learn the basic fundamentls of HTML as years of boredom have taken hold. Ages have past since I last slept more then 5 hours in a night, I plan a slow and cruel death for tiger when he wakes me up once more.. the next time shall be in the <b>underworld</b> <a href="www.google.com">This is where I find ways to destroy the kitten.</a>
+<p>My first attempt is not going well at this point..We are beggining to learn the basic fundamentls of HTML as years of boredom have taken hold. Ages have past since I last slept more then 5 hours in a night, I plan a slow and cruel death for tiger when he wakes me up once more.. the next time shall be in the <b>underworld</b><a href="www.google.com">This is where I find ways to destroy the kitten</a>
 </p>
 </body>
 </html>
